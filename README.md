@@ -1,6 +1,6 @@
 ### Hello 👋🏻
 
-#### Some projects I liked creating
+#### Some projects I enjoyed creating
 
 - [CSharpLox](https://github.com/mrahhal/CSharpLox)
 - [MR.EntityFrameworkCore.KeysetPagination](https://github.com/mrahhal/MR.EntityFrameworkCore.KeysetPagination)
