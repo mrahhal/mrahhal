@@ -3,11 +3,11 @@
 #### Some projects I enjoyed creating
 
 - [CSharpLox](https://github.com/mrahhal/CSharpLox)
-- [MR.EntityFrameworkCore.KeysetPagination](https://github.com/mrahhal/MR.EntityFrameworkCore.KeysetPagination)
+- [MR.EntityFrameworkCore.KeysetPagination](https://github.com/mrahhal/MR.EntityFrameworkCore.KeysetPagination) / MR.AspNetCore.Pagination (in dev)
 - [MR.AspNetCore.Jobs](https://github.com/mrahhal/MR.AspNetCore.Jobs)
 - [MR.AspNetCore.NestedRouting](https://github.com/mrahhal/MR.AspNetCore.NestedRouting)
 - [MR.Augmenter](https://github.com/mrahhal/MR.Augmenter)
-- [MR.Analyzers.Whitespace](https://github.com/mrahhal/MR.Analyzers.Whitespace)
+- [MR.Analyzers.Whitespace](https://github.com/mrahhal/MR.Analyzers.Whitespace) / [MR.Analyzers.Records](https://github.com/mrahhal/MR.Analyzers.Records)
 - [css-theming](https://github.com/mrahhal/css-theming)
 - [mr-scroll](https://github.com/mrahhal/mr-scroll)
 - [mr-gtag](https://github.com/mrahhal/mr-gtag)
