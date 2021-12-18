@@ -7,11 +7,11 @@
 - [MR.AspNetCore.Jobs](https://github.com/mrahhal/MR.AspNetCore.Jobs)
 - [MR.AspNetCore.NestedRouting](https://github.com/mrahhal/MR.AspNetCore.NestedRouting) ・ [MR.AspNetCore.MvcPack](https://github.com/mrahhal/MR.AspNetCore.MvcPack) ・ [MR.AttributeDI](https://github.com/mrahhal/MR.AttributeDI) ・ [MR.Augmenter](https://github.com/mrahhal/MR.Augmenter)
 - [MR.Analyzers.Whitespace](https://github.com/mrahhal/MR.Analyzers.Whitespace) ・ [MR.Analyzers.Records](https://github.com/mrahhal/MR.Analyzers.Records)
-- [template-dotnet-package](https://github.com/mrahhal/template-dotnet-package) ・ [template-roslyn-analyzer](https://github.com/mrahhal/template-roslyn-analyzer)
+- [template-dotnet-package](https://github.com/mrahhal/template-dotnet-package) ・ [template-roslyn-analyzer](https://github.com/mrahhal/template-roslyn-analyzer) ・ [template-angular-package](https://github.com/mrahhal/template-angular-package)
 - [css-theming](https://github.com/mrahhal/css-theming)
 - [mr-scroll](https://github.com/mrahhal/mr-scroll) ・ [mr-gtag](https://github.com/mrahhal/mr-gtag)
 - [CCSS](https://github.com/mrahhal/CCSS)
-- [vscode-ng-tooling](https://github.com/mrahhal/vscode-ng-tooling)
+- [vscode-ng-tooling](https://github.com/mrahhal/vscode-ng-tooling) ・ [ngx-chain-guards](https://github.com/mrahhal/ngx-chain-guards)
 - [gitgc](https://github.com/mrahhal/gitgc)
 - [cv](https://github.com/mrahhal/cv)
 
