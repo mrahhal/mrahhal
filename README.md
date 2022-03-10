@@ -1,19 +1,35 @@
 ### Hello 👋🏻
 
+I'm mrahhal (mohal).
+
 #### Some projects I enjoyed creating
 
-- [CSharpLox](https://github.com/mrahhal/CSharpLox)
+##### C#
+
+- [CSharpLox](https://github.com/mrahhal/CSharpLox): A cross-platform compiler/interpreter .NET Standard implementation of the Lox language.
 - [MR.EntityFrameworkCore.KeysetPagination](https://github.com/mrahhal/MR.EntityFrameworkCore.KeysetPagination) ・ [MR.AspNetCore.Pagination](https://github.com/mrahhal/MR.AspNetCore.Pagination)
 - [MR.AspNetCore.Jobs](https://github.com/mrahhal/MR.AspNetCore.Jobs)
 - [MR.AspNetCore.NestedRouting](https://github.com/mrahhal/MR.AspNetCore.NestedRouting) ・ [MR.AspNetCore.MvcPack](https://github.com/mrahhal/MR.AspNetCore.MvcPack) ・ [MR.AttributeDI](https://github.com/mrahhal/MR.AttributeDI) ・ [MR.Augmenter](https://github.com/mrahhal/MR.Augmenter)
 - [MR.Analyzers.Whitespace](https://github.com/mrahhal/MR.Analyzers.Whitespace) ・ [MR.Analyzers.Records](https://github.com/mrahhal/MR.Analyzers.Records)
-- [template-dotnet-package](https://github.com/mrahhal/template-dotnet-package) ・ [template-roslyn-analyzer](https://github.com/mrahhal/template-roslyn-analyzer) ・ [template-angular-package](https://github.com/mrahhal/template-angular-package)
-- [css-theming](https://github.com/mrahhal/css-theming)
-- [mr-scroll](https://github.com/mrahhal/mr-scroll) ・ [mr-gtag](https://github.com/mrahhal/mr-gtag)
-- [CCSS](https://github.com/mrahhal/CCSS)
-- [vscode-ng-tooling](https://github.com/mrahhal/vscode-ng-tooling) ・ [ngx-chain-guards](https://github.com/mrahhal/ngx-chain-guards)
-- [gitgc](https://github.com/mrahhal/gitgc)
-- [cv](https://github.com/mrahhal/cv)
+- [template-dotnet-package](https://github.com/mrahhal/template-dotnet-package) ・ [template-roslyn-analyzer](https://github.com/mrahhal/template-roslyn-analyzer)
+
+##### Web
+
+- [css-theming](https://github.com/mrahhal/css-theming): A platform for CSS theming.
+- [CCSS](https://github.com/mrahhal/CCSS): A minimal set of conventions for CSS class naming in modern apps.
+- [mr-scroll](https://github.com/mrahhal/mr-scroll): The best custom scroll for the web.
+- [mr-gtag](https://github.com/mrahhal/mr-gtag): Easy, strong typed, and a modern way to use google analytics gtag lib.
+- [cv](https://github.com/mrahhal/cv): A CV template built as a web app. Prints perfectly on A4 papers.
+
+##### Angular
+
+- [vscode-ng-tooling](https://github.com/mrahhal/vscode-ng-tooling): Opinionated extra angular tooling for vscode.
+- [ngx-chain-guards](https://github.com/mrahhal/ngx-chain-guards): An angular guard that chains other guards, waiting for each one to complete before proceeding to the next.
+- [template-angular-package](https://github.com/mrahhal/template-angular-package)
+
+##### Go
+
+- [gitgc](https://github.com/mrahhal/gitgc): A small utility for easily cloning github repositories to a pre-configured directory.
 
 [More](https://github.com/mrahhal?tab=repositories&type=source)
 
