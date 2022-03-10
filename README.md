@@ -27,6 +27,10 @@ I'm mrahhal (mohal).
 - [ngx-chain-guards](https://github.com/mrahhal/ngx-chain-guards): An angular guard that chains other guards, waiting for each one to complete before proceeding to the next.
 - [template-angular-package](https://github.com/mrahhal/template-angular-package)
 
+##### Rust
+
+- [rust-japanese](https://github.com/mrahhal/rust-japanese): Recognize the different Japanese scripts and convert between hiragana/katakana.
+
 ##### Go
 
 - [gitgc](https://github.com/mrahhal/gitgc): A small utility for easily cloning github repositories to a pre-configured directory.
