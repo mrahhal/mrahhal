@@ -4,6 +4,10 @@ I'm mrahhal (mohal).
 
 #### Some projects I enjoyed creating
 
+##### Rust
+
+- [rust-japanese](https://github.com/mrahhal/rust-japanese): Recognize the different Japanese scripts and convert between hiragana/katakana.
+
 ##### C#
 
 - [CSharpLox](https://github.com/mrahhal/CSharpLox): A cross-platform compiler/interpreter .NET Standard implementation of the Lox language.
@@ -26,10 +30,6 @@ I'm mrahhal (mohal).
 - [vscode-ng-tooling](https://github.com/mrahhal/vscode-ng-tooling): Opinionated extra angular tooling for vscode.
 - [ngx-chain-guards](https://github.com/mrahhal/ngx-chain-guards): An angular guard that chains other guards, waiting for each one to complete before proceeding to the next.
 - [template-angular-package](https://github.com/mrahhal/template-angular-package)
-
-##### Rust
-
-- [rust-japanese](https://github.com/mrahhal/rust-japanese): Recognize the different Japanese scripts and convert between hiragana/katakana.
 
 ##### Go
 
