@@ -1,6 +1,6 @@
 ### Hello 👋🏻
 
-I'm mrahhal (mohal).
+I'm Mohal.
 
 #### Some projects I enjoyed creating
 
