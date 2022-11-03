@@ -41,5 +41,3 @@ I'm Mohal.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 - [dotnet/efcore](https://github.com/dotnet/efcore)
 - [microsoft/vscode](https://github.com/microsoft/vscode)
-- [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper)
-- [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro)
