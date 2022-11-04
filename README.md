@@ -1,4 +1,4 @@
-I'm Mohal.
+Hello, I'm Mohal 👋🏻
 
 #### Some projects I enjoyed creating
 
