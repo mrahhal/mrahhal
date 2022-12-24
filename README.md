@@ -5,6 +5,7 @@ Hello, I'm Mohal 👋🏻
 ##### Rust
 
 - [rust-japanese](https://github.com/mrahhal/rust-japanese): Recognize the different Japanese scripts and convert between hiragana/katakana.
+- [neural-network-from-scratch](https://github.com/mrahhal/neural-network-from-scratch): Neural network implementations from scratch in Rust.
 
 ##### C#
 
