@@ -1,6 +1,6 @@
 Hello, I'm Mohal 👋🏻
 
-I have a blog here: https://github.com/mrahhal/blog
+<!-- I have a blog here: https://github.com/mrahhal/blog -->
 
 #### Some projects I enjoyed creating
 
