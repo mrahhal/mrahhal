@@ -39,9 +39,11 @@ Hello, I'm Mohal 👋🏻
 
 [More](https://github.com/mrahhal?tab=repositories&type=source)
 
+<!--
 #### Some projects I enjoyed contributing to
 
 - [dotnet/roslyn](https://github.com/dotnet/roslyn)
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 - [dotnet/efcore](https://github.com/dotnet/efcore)
 - [microsoft/vscode](https://github.com/microsoft/vscode)
+-->
